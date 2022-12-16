@@ -8,7 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
-
+remote_theme: daattali/beautiful-jekyll@5.0.0
 # Name of website
 title: True jin True life
 
